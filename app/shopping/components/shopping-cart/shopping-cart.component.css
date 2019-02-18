@@ -1,0 +1,23 @@
+.thumbnail{
+    width: 80px;
+    height: 80px;
+    border-radius: 100%;
+    background-size: cover;  
+    align-content: right;
+}
+.card { 
+    margin-bottom: 80px;
+    padding-left: 80px;
+  }
+h1{
+    padding-left: 80px;
+}
+.table{
+    border: 1px solid;
+}
+.card-body{
+    border: 1px solid;
+}
+.btn.btn-primary{
+    background-color: #b1c522;
+}

@@ -1,0 +1,23 @@
+
+.card{
+    margin-bottom: 30px;    
+}
+.card-footer{
+    padding: 0;
+    background:#fff;
+}
+
+.card-footer button{
+  cursor: pointer;
+  text-transform: uppercase;
+}
+.card-img-top{
+    height: 200px;
+}
+.col.text-center{
+       line-height: 37px;
+}
+/* .cart-deck{
+    height: 300px;
+    width: 300px;
+} */
